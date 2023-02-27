@@ -6,7 +6,7 @@
     Date date; 
 %>
 <% 
-    date = new Dat;
+    date = 
 %>
 <b>System date and time: </b> <%= date %>
 </body>
